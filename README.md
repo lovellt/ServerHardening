@@ -1,6 +1,6 @@
 # ServerHardening
 
-# DISABLEWPAD.ps1 
+DISABLEWPAD.ps1 
 #   Chanages to registry to force disable WPAD
 #   https://www.pcworld.com/article/3105998/disable-wpad-now-or-have-your-accounts-and-private-data-compromised.html
 
