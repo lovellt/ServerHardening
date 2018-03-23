@@ -1,0 +1,1 @@
+new-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Wpad" -Name WpadOverride -PropertyType DWORD -Value 1 | Out-Null
